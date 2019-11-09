@@ -1,7 +1,7 @@
 {
-    "name": "WSJoyStick",
+    "name": "YBJoyStick",
     "version": "0.0.0",
-    "description": "Waveshare electronic",
+    "description": "YB electronic",
     "license": "MIT",
     "dependencies": {
         "core": "*",
