@@ -31,8 +31,8 @@ enum KEY {
     F = 6,
 }
 let JoyStick_P = DigitalPin.P8;
-let JoyStick_X = AnalogPin.P1;
-let JoyStick_Y = AnalogPin.P2;
+let JoyStick_X = AnalogPin.P2;
+let JoyStick_Y = AnalogPin.P1;
 let KEY_A = DigitalPin.P5;
 let KEY_B = DigitalPin.P11;
 let KEY_C = DigitalPin.P15;
